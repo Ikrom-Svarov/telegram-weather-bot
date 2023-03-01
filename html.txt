@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="ru" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="ru" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" lang="ru">
+<!--<![endif]-->
+<head>
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54761869, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54761869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	<meta name="yandex-verification" content="1b40f613bcb4ebb9" />
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145147741-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145147741-1');
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PXJ8DBF');</script>
+<!-- End Google Tag Manager -->
+
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Моноблоки Apple iMac в Бишкеке - Login.kg</title>
+<base href="https://login.kg/" />
+<meta name="description" content="Купить моноблок Apple iMac по самым выгодным ценам в Бишкеке только в интернет магазине Login.kg. Гарантия от Apple. Быстрый кредит." />
+<meta name="keywords" content= "купить моноблок Apple iMac, характеристики моноблок Apple iMac, отзывы моноблок Apple iMac" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link href="https://login.kg/image/catalog/demo/Cotegory/Logo login.png" rel="icon" />
+
+
+<link href="https://login.kg/monobloki-apple-imac" rel="canonical" />
+
+
+
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css" />
+<link href="catalog/view/theme/default/stylesheet/stylesheet.css" rel="stylesheet">
+<link rel="shortcut icon" href="/catalog/view/theme/default/image/login.ico"/>
+<link href="catalog/view/theme/default/stylesheet/product_statuses.css" type="text/css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/common.js" type="text/javascript"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-53XL9DX');</script>
+<!-- End Google Tag Manager -->
+
+              <script src="catalog/view/javascript/popup_purchase/jquery.magnific-popup.min.js" type="text/javascript"></script>
+        <link href="catalog/view/javascript/popup_purchase/magnific-popup.css" rel="stylesheet" media="screen" />
+        <link href="catalog/view/theme/default/stylesheet/popup_purchase/stylesheet.css" rel="stylesheet" media="screen" />
+        <script type="text/javascript">
+        $(function() {
+                    $.each($("[onclick^='cart.add']"), function() {
+            var product_id = $(this).attr('onclick').match(/[0-9]+/);
+            $(this).parent().before("<div class='button-group popup-purchase-button'><button>Купить в 1 клик</button></div>").prev().attr('onclick', 'get_popup_purchase(\'' + product_id + '\');');
+          });
+          $.each($(".product-thumb [onclick^='get_popup_cart']"), function() {
+            var product_id = $(this).attr('onclick').match(/[0-9]+/);
+            $(this).parent().before("<div class='button-group popup-purchase-button'><button>Купить в 1 клик</button></div>").prev().attr('onclick', 'get_popup_purchase(\'' + product_id + '\');');
+          });
+                    var main_product_id = $('input[name=\'product_id\']').val();
+          $('#button-cart').before( "<button class='btn btn-primary btn-lg btn-block'>Купить в 1 клик</button>" ).prev().attr('onclick', 'get_popup_purchase(\'' + main_product_id + '\');');
+        });
+        function get_popup_purchase(product_id) {  
+          $.magnificPopup.open({
+            tLoading: '<img src="catalog/view/theme/default/stylesheet/popup_purchase/ring-alt.svg" />',
+            items: {
+              src: 'index.php?route=module/popup_purchase&product_id='+product_id,
+              type: 'ajax'
+            }
+          });
+        }
+        </script>
+            
+</head>
+<body class="product-category-198_200">
+<nav id="top">
+  <div class="container">
+            <div id="top-links" class="nav pull-right">
+      <ul class="list-inline">
+        <li><a href="https://login.kg/contact-us"><i class="fa fa-phone"></i></a> <span class="hidden-xs hidden-sm hidden-md">0500 12-02-52  |  0557-12-52-52</span></li>
+        <li class="dropdown"><a href="https://login.kg/my-account" title="Личный кабинет" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-xs hidden-sm hidden-md">Личный кабинет</span> <span class="caret"></span></a>
+          <ul class="dropdown-menu dropdown-menu-right">
+                        <li><a href="https://login.kg/create-account">Регистрация</a></li>
+            <li><a href="https://login.kg/login">Авторизация</a></li>
+                      </ul>
+        </li>
+        <li><a href="https://login.kg/wishlist" id="wishlist-total" title="Закладки (0)"><i class="fa fa-heart"></i> <span class="hidden-xs hidden-sm hidden-md">Закладки (0)</span></a></li>
+        <li><a href="https://login.kg/cart" title="Корзина"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md">Корзина</span></a></li>
+        <li><a href="https://login.kg/checkout" title="Оформление заказа"><i class="fa fa-share"></i> <span class="hidden-xs hidden-sm hidden-md">Оформление заказа</span></a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXJ8DBF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <div id="logo">
+                    <a href="https://login.kg/"><img src="https://login.kg/image/catalog/System/Logo/Logo text.png" title="Интернет-магазин Login.kg" alt="Интернет-магазин Login.kg" class="img-responsive" /></a>
+                  </div>
+      </div>
+      <div class="col-sm-5">
+            	            <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/live_search.css" />
+				<script type="text/javascript"><!--
+					var live_search = {
+						selector: '#search',
+						text_no_matches: 'Нет товаров, которые соответствуют критериям поиска.',
+						height: '50px',
+						delay: 400
+					}
+
+					$(document).ready(function() {
+						var html = '';
+						html += '<div id="live-search">';
+						html += '	<ul>';
+						html += '	</ul>';
+						html += '<div class="result-text"></div>';
+						html += '</div>';
+
+						$(live_search.selector).after(html);
+						$('#search input[name=\'search\']').autocomplete({
+							'source': function(request, response) {
+								if ($(live_search.selector + ' input[type=\'text\']').val() == '') {
+									$('#live-search').css('display','none');
+								}
+								else{
+									var html = '';
+									html += '<li style="text-align: center;height:10px;">';
+									html +=	'<img class="loading" src="catalog/view/theme/default/image/loading.gif" />';
+									html +=	'</li>';
+									$('#live-search ul').html(html);
+									$('#live-search').css('display','block');
+								}
+								var filter_name = $(live_search.selector + ' input[type=\'text\']').val();
+
+								if (filter_name.length>0) {
+									$.ajax({
+										url: 'index.php?route=product/live_search&filter_name=' +  encodeURIComponent(request),
+										dataType: 'json',
+										success: function(result) {
+											var products = result.products;
+											$('#live-search ul li').remove();
+											$('.result-text').html('');
+											if (!$.isEmptyObject(products)) {
+												var show_image = 1;
+												var show_price = 1;
+												var show_description = 0;
+												$('.result-text').html('<a href="https://login.kg/search?search='+filter_name+'" style="display:block;">Показать все результаты ('+result.total+')</a>');
+
+												$.each(products, function(index,product) {
+													var html = '';
+													
+													html += '<li>';
+													html += '<a href="' + product.url + '" title="' + product.name + '">';
+													if(product.image && show_image){
+														html += '	<div class="product-image"><img alt="' + product.name + '" src="' + product.image + '"></div>';
+													}
+													html += '	<div class="product-name">' + product.name ;
+													if(show_description){
+														html += '<p>' + product.extra_info + '</p>';
+													}
+													html += '</div>';
+													if(show_price){
+														if (product.special) {
+															html += '	<div class="product-price"><span class="special">' + product.price + '</span><span class="price">' + product.special + '</span></div>';
+														} else {
+															html += '	<div class="product-price"><span class="price">' + product.price + '</span></div>';
+														}
+													}
+													html += '<span style="clear:both"></span>';
+													html += '</a>';
+													html += '</li>';
+													$('#live-search ul').append(html);
+												});
+											} else {
+												var html = '';
+												html += '<li style="text-align: center;height:10px;">';
+												html +=	live_search.text_no_matches;
+												html +=	'</li>';
+
+												$('#live-search ul').html(html);
+											}
+											$('#live-search ul li').css('height',live_search.height);
+											$('#live-search').css('display','block');
+											return false;
+										}
+									});
+								}
+							},
+							'select': function(product) {
+								$('input[name=\'search\']').val(product.name);
+							}
+						});
+
+						$(document).bind( "mouseup touchend", function(e){
+						  var container = $('#live-search');
+						  if (!container.is(e.target) && container.has(e.target).length === 0)
+						  {
+						    container.hide();
+						  }
+						});
+					});
+				//--></script>
+			            
+<div id="search" class="input-group">
+  <input type="text" name="search" value="" placeholder="Поиск" class="form-control input-lg" />
+  <span class="input-group-btn">
+    <button type="button" class="btn btn-default btn-lg"><i class="fa fa-search"></i></button>
+  </span>
+</div>      </div>
+      <div class="col-sm-3"><div id="cart" class="btn-group btn-block">
+  <button type="button" data-toggle="dropdown" data-loading-text="Загрузка..." class="btn btn-inverse btn-block btn-lg dropdown-toggle"><i class="fa fa-shopping-cart"></i> <span id="cart-total">Товаров 0 (0 сом)</span></button>
+  <ul class="dropdown-menu pull-right">
+        <li>
+      <p class="text-center">Ваша корзина пуста!</p>
+    </li>
+      </ul>
+</div>
+</div>
+    </div>
+  </div>
+</header>
+<div class="container">
+  <nav id="menu" class="navbar">
+    <div class="navbar-header"><span id="category" class="visible-xs">Категории</span>
+      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
+    </div>
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav">
+                        <li class="dropdown"><a href="https://login.kg/detskaja-obuv-i-odezhda" class="dropdown-toggle" data-toggle="dropdown">Все для детей</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/detskaja-obuv-i-odezhda/detskaja-obuv">Детская обувь (81)</a></li>
+                                <li><a href="https://login.kg/detskaja-obuv-i-odezhda/konstruktory-dlya-detei">Конструкторы (7)</a></li>
+                                <li><a href="https://login.kg/detskaja-obuv-i-odezhda/razvivajuschie-igrushki">Развивающие игрушки (6)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/detskaja-obuv-i-odezhda" class="see-all">Смотреть Все Все для детей</a> </div>
+        </li>
+                                <li class="dropdown"><a href="https://login.kg/produktsija-apple" class="dropdown-toggle" data-toggle="dropdown">Продукция Apple</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/produktsija-apple/aksessuary-apple">Аксессуары (37)</a></li>
+                                <li><a href="https://login.kg/produktsija-apple/monobloki-apple-imac">Моноблоки (6)</a></li>
+                                <li><a href="https://login.kg/produktsija-apple/noutbuki-apple-macbook">Ноутбуки (24)</a></li>
+                                <li><a href="https://login.kg/produktsija-apple/planshety">Планшеты (39)</a></li>
+                                <li><a href="https://login.kg/produktsija-apple/smart-chasy-apple-iwatch">Смарт-часы (19)</a></li>
+                                <li><a href="https://login.kg/produktsija-apple/smartfony-apple-iphone">Смартфоны (65)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/produktsija-apple" class="see-all">Смотреть Все Продукция Apple</a> </div>
+        </li>
+                                <li class="dropdown"><a href="https://login.kg/phones" class="dropdown-toggle" data-toggle="dropdown">Смартфоны</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/phones/apple-iphone-6s">Apple  (65)</a></li>
+                                <li><a href="https://login.kg/phones/smartfony-infinix">Infinix (24)</a></li>
+                                <li><a href="https://login.kg/phones/smartfony-lg">LG (2)</a></li>
+                                <li><a href="https://login.kg/phones/google-phones">Google (40)</a></li>
+                                <li><a href="https://login.kg/phones/samsung">Samsung (134)</a></li>
+                                <li><a href="https://login.kg/phones/Xiaomi1561">Xiaomi (222)</a></li>
+                                <li><a href="https://login.kg/phones/meizu">Meizu (0)</a></li>
+                                <li><a href="https://login.kg/phones/asus465465">Asus (23)</a></li>
+                                <li><a href="https://login.kg/phones/huawei494">Huawei (39)</a></li>
+                                <li><a href="https://login.kg/phones/one-plus">OnePlus (61)</a></li>
+                                <li><a href="https://login.kg/phones/realme">Realme (103)</a></li>
+                                <li><a href="https://login.kg/phones/zte">ZTE (36)</a></li>
+                                <li><a href="https://login.kg/phones/Lenovo">Lenovo (6)</a></li>
+                                <li><a href="https://login.kg/phones/nokia-1">Nokia (7)</a></li>
+                                <li><a href="https://login.kg/phones/for-game">Для игр (65)</a></li>
+                                <li><a href="https://login.kg/phones/smartisan U1">Smartisan (7)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/phones" class="see-all">Смотреть Все Смартфоны</a> </div>
+        </li>
+                                <li><a href="https://login.kg/accessories-huawei">Аксессуары Huawei</a></li>
+                                <li class="dropdown"><a href="https://login.kg/tablet" class="dropdown-toggle" data-toggle="dropdown">Планшеты</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/tablet/alcatel">Alcatel (0)</a></li>
+                                <li><a href="https://login.kg/tablet/planshety-apple">Apple (39)</a></li>
+                                <li><a href="https://login.kg/tablet/samsung planshet">Samsung (14)</a></li>
+                                <li><a href="https://login.kg/tablet/xiaomi Mi Pad">Xiaomi (17)</a></li>
+                                <li><a href="https://login.kg/tablet/teclast">Teclast (3)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/tablet" class="see-all">Смотреть Все Планшеты</a> </div>
+        </li>
+                                <li class="dropdown"><a href="https://login.kg/accessories" class="dropdown-toggle" data-toggle="dropdown">Аксессуары</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/accessories/remax i">Remax (72)</a></li>
+                                <li><a href="https://login.kg/accessories/karaoke-mikrofony">Караоке микрофоны (10)</a></li>
+                                <li><a href="https://login.kg/accessories/naushniki">Наушники (264)</a></li>
+                                <li><a href="https://login.kg/accessories/ochki-virtualnoj-realnosti">Очки виртуальной реальности (13)</a></li>
+                                <li><a href="https://login.kg/accessories/fitnes-i-zdorovje">Фитнес и здоровье (43)</a></li>
+                                <li><a href="https://login.kg/accessories/zaschitnoe-stekly-i-plenki">Защитные стекла (111)</a></li>
+                                <li><a href="https://login.kg/accessories/chexly-dlja-telefonov">Чехлы для телефонов (44)</a></li>
+                                <li><a href="https://login.kg/accessories/vneshnie-akkumuljatory">Внешние аккумуляторы (61)</a></li>
+                                <li><a href="https://login.kg/accessories/meizu_accessories">Meizu (14)</a></li>
+                                <li><a href="https://login.kg/accessories/mi-tv">Разное (278)</a></li>
+                                <li><a href="https://login.kg/accessories/flesh-karty">Флеш-карты (20)</a></li>
+                                <li><a href="https://login.kg/accessories/vjyjgjl">Монопод для селфи (28)</a></li>
+                                <li><a href="https://login.kg/accessories/zarjadnye-ustrojstva-i-batarei">Зарядные устройства и батареи (107)</a></li>
+                                <li><a href="https://login.kg/accessories/umnye-broslety">Умные браслеты (46)</a></li>
+                                <li><a href="https://login.kg/accessories/videoregistratory">Видеорегистраторы (29)</a></li>
+                                <li><a href="https://login.kg/accessories/kabeli-i-provoda">Кабели и провода (130)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/accessories" class="see-all">Смотреть Все Аксессуары</a> </div>
+        </li>
+                                <li class="dropdown"><a href="https://login.kg/accessories-xiaomi" class="dropdown-toggle" data-toggle="dropdown">Аксессуары Xiaomi</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/accessories-xiaomi/fitnes">Фитнес и здоровье (146)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/naushniki-i-garnitura">Наушники и гарнитуры (100)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/speakers">Колонки (24)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/powerbanks-mi">Mi Power Banks (21)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/smart-home">Умный дом (471)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/osveschenie">Освещение (34)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/foto">Фото, Видеотехника (78)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/smart-ustrojstva">Смарт устройства (167)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/zarjadnye-ustrojstva">Зарядные устройства (52)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/wi-fi-oborudovanie">Wi-Fi оборудование (29)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/vr-ochki">VR очки (3)</a></li>
+                                <li><a href="https://login.kg/accessories-xiaomi/prochee">Прочее (115)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/accessories-xiaomi" class="see-all">Смотреть Все Аксессуары Xiaomi</a> </div>
+        </li>
+                                <li><a href="https://login.kg/smart-watch">Смарт - часы</a></li>
+                                <li class="dropdown"><a href="https://login.kg/audio-device" class="dropdown-toggle" data-toggle="dropdown">Audio устр-а</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/audio-device/conference-system">Конференц системы (1)</a></li>
+                                <li><a href="https://login.kg/audio-device/akustika-2-0">Колонки (85)</a></li>
+                                <li><a href="https://login.kg/audio-device/akustika-2-1">Акустика 2.1 (0)</a></li>
+                                <li><a href="https://login.kg/audio-device/akustika-5-1">Акустика 5.1 (0)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/audio-device" class="see-all">Смотреть Все Audio устр-а</a> </div>
+        </li>
+                                <li class="dropdown"><a href="https://login.kg/network-hardware" class="dropdown-toggle" data-toggle="dropdown">Сетевое оборуд-е</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/network-hardware/wi-fi-aksessuary">Wi Fi аксессуары (0)</a></li>
+                                <li><a href="https://login.kg/network-hardware/wi-fi-marshrutizatory">Wi Fi маршрутизаторы (36)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/network-hardware" class="see-all">Смотреть Все Сетевое оборуд-е</a> </div>
+        </li>
+                                <li><a href="https://login.kg/televizory">Телевизоры</a></li>
+                                <li class="dropdown"><a href="https://login.kg/torgovoe-oborudovanie" class="dropdown-toggle" data-toggle="dropdown">Торговое оборуд-е</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/vesovoe-oborudovanie">Весовое оборудование (1)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/denezhnye-jaschiki">Денежные ящики (20)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/kassovye-apparaty">Кассовые аппараты ККМ (13)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/mobilnye-printery-dlja-chekov">Мобильные принтеры для чеков (4)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/monobloki sensorniy">Моноблоки (4)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/namotchiki-etiketok">Намотчики этикеток (1)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/printery">Принтеры (10)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/printery-shtrix-kodov">Принтеры штрих кодов и этикеток (44)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/skanery-shtrix-kodov">Сканеры штрих кодов (36)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/schetchiki-banknot">Счетчики банкнот (7)</a></li>
+                                <li><a href="https://login.kg/torgovoe-oborudovanie/chekovaja-lenta-i-termobumaga">Чековая лента и термобумага (30)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/torgovoe-oborudovanie" class="see-all">Смотреть Все Торговое оборуд-е</a> </div>
+        </li>
+                                <li class="dropdown"><a href="https://login.kg/computery-i-aksessuary" class="dropdown-toggle" data-toggle="dropdown">Компьютеры и аксессуары</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/computery-i-aksessuary/klaviatury-pk">Клавиатуры (31)</a></li>
+                                <li><a href="https://login.kg/computery-i-aksessuary/monitory-pk">Мониторы (14)</a></li>
+                                <li><a href="https://login.kg/computery-i-aksessuary/monobloki">Моноблоки (12)</a></li>
+                                <li><a href="https://login.kg/computery-i-aksessuary/myshki-pk">Мышки (42)</a></li>
+                                <li><a href="https://login.kg/computery-i-aksessuary/noutbuki">Ноутбуки (229)</a></li>
+                                <li><a href="https://login.kg/computery-i-aksessuary/prochie-aksessuary">Прочие аксессуары (77)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/computery-i-aksessuary" class="see-all">Смотреть Все Компьютеры и аксессуары</a> </div>
+        </li>
+                                <li><a href="https://login.kg/microclimate">Микроклимат</a></li>
+                                <li><a href="https://login.kg/server">Серверное оборудование</a></li>
+                                <li class="dropdown"><a href="https://login.kg/transport" class="dropdown-toggle" data-toggle="dropdown">Транспорт</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">
+                            <ul class="list-unstyled">
+                                <li><a href="https://login.kg/transport/giroskutery">Гироскутеры (14)</a></li>
+                                <li><a href="https://login.kg/transport/elektrovelosiped">Электровелосипеды (11)</a></li>
+                                <li><a href="https://login.kg/transport/elektrosamokaty">Электросамокаты (18)</a></li>
+                                <li><a href="https://login.kg/transport/monokolesa">Моноколеса (1)</a></li>
+                                <li><a href="https://login.kg/transport/velosipedy">Велосипеды (7)</a></li>
+                                <li><a href="https://login.kg/transport/aksessuary-k-transportu">Аксессуары к транспортным средствам (75)</a></li>
+                              </ul>
+                          </div>
+            <a href="https://login.kg/transport" class="see-all">Смотреть Все Транспорт</a> </div>
+        </li>
+                                <li><a href="https://login.kg/tovary-dlja-zdorovja">Товары для здоровья</a></li>
+                      </ul>
+    </div>
+  </nav>
+</div>
+<div class="container">
+  <ul class="breadcrumb">
+        <li><a href="https://login.kg/"><i class="fa fa-home"></i></a></li>
+        <li><a href="https://login.kg/produktsija-apple">Продукция Apple</a></li>
+        <li><a href="https://login.kg/produktsija-apple/monobloki-apple-imac#">Моноблоки</a></li>
+      </ul>
+  <div class="row">                <div id="content" class="col-sm-12">      				<h1>Моноблоки</h1>
+			                        <p><a href="https://login.kg/compare-products" id="compare-total">Сравнение товаров (0)</a></p>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="btn-group hidden-xs">
+            <button type="button" id="list-view" class="btn btn-default" data-toggle="tooltip" title="Список"><i class="fa fa-th-list"></i></button>
+            <button type="button" id="grid-view" class="btn btn-default" data-toggle="tooltip" title="Сетка"><i class="fa fa-th"></i></button>
+          </div>
+        </div>
+        <div class="col-md-2 text-right">
+          <label class="control-label" for="input-sort">Сортировка:</label>
+        </div>
+        <div class="col-md-3 text-right">
+          <select id="input-sort" class="form-control" onchange="location = this.value;">
+                                    <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?sort=p.sort_order&order=ASC">По умолчанию</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?sort=pd.name&order=ASC">Название (А - Я)</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?sort=pd.name&order=DESC">Название (Я - А)</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?sort=p.price&order=ASC">Цена (низкая &gt; высокая)</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?sort=p.price&order=DESC">Цена (высокая &gt; низкая)</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?sort=rating&order=DESC">Рейтинг (начиная с высокого)</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?sort=rating&order=ASC">Рейтинг (начиная с низкого)</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?sort=p.model&order=ASC">Модель (А - Я)</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?sort=p.model&order=DESC">Модель (Я - А)</option>
+                                  </select>
+        </div>
+        <div class="col-md-1 text-right">
+          <label class="control-label" for="input-limit">Показать:</label>
+        </div>
+        <div class="col-md-2 text-right">
+          <select id="input-limit" class="form-control" onchange="location = this.value;">
+                                    <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?limit=25">25</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?limit=50">50</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?limit=75">75</option>
+                                                <option value="https://login.kg/produktsija-apple/monobloki-apple-imac?limit=100" selected="selected">100</option>
+                                  </select>
+        </div>
+      </div>
+      <br />
+      <div class="row">
+                <div class="product-layout product-list col-xs-12">
+          <div class="product-thumb">
+             
+	        <div class='image' style='filter: gray;  -webkit-filter: grayscale(100%);  -moz-filter: grayscale(100%);  -ms-filter: grayscale(100%);  -o-filter: grayscale(100%);  filter: grayscale(100%);  opacity: 0.8;'>	      <a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-24-2021-apple-m1-8c-cpu-8c-gpu-8256gb-ssd"><img src="https://login.kg/image/cache/catalog/new/Monoblok/Apple/iMac 24 2021/14-150x150.jpg" data-grey-image="1" alt="Моноблок Apple iMac 24&quot; 2021 Apple M1 8C CPU/8C GPU (8GB+256 SDD)" title="Моноблок Apple iMac 24&quot; 2021 Apple M1 8C CPU/8C GPU (8GB+256 SDD)" class="img-responsive" /></a></div>
+            <div>
+              <div class="caption">
+                <h4><a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-24-2021-apple-m1-8c-cpu-8c-gpu-8256gb-ssd">Моноблок Apple iMac 24&quot; 2021 Apple M1 8C CPU/8C GPU (8GB+256 SDD)</a></h4>
+                <div class="statuses"></div>
+                <p>Знакомьтесь: новый iMac.Прирождённый Apple. Наделё..</p>
+                                <div class="rating">
+                                                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                    </div>
+                                                <p class="price">
+                                    149900 сом                                                    </p>
+                              </div>
+              <div class="button-group">
+                <button type="button" onclick="cart.add('3589');" 
+						disabled><i class='fa fa-shopping-cart'></i> <span class='hidden-xs hidden-sm hidden-md'>Нет в наличии</span></button>	      
+                <button type="button" data-toggle="tooltip" title="В закладки" onclick="wishlist.add('3589');"><i class="fa fa-heart"></i></button>
+                <button type="button" data-toggle="tooltip" title="В сравнение" onclick="compare.add('3589');"><i class="fa fa-exchange"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+                <div class="product-layout product-list col-xs-12">
+          <div class="product-thumb">
+             
+	        <div class='image' style='filter: gray;  -webkit-filter: grayscale(100%);  -moz-filter: grayscale(100%);  -ms-filter: grayscale(100%);  -o-filter: grayscale(100%);  filter: grayscale(100%);  opacity: 0.8;'>	      <a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-24-2021-apple-m1-8c-cpu-8c-gpu-8512gb-ssd"><img src="https://login.kg/image/cache/catalog/new/Monoblok/Apple/iMac 24 2021/14-150x150.jpg" data-grey-image="1" alt="Моноблок Apple iMac 24&quot; 2021 Apple M1 8C CPU/8C GPU (8+512GB SSD)" title="Моноблок Apple iMac 24&quot; 2021 Apple M1 8C CPU/8C GPU (8+512GB SSD)" class="img-responsive" /></a></div>
+            <div>
+              <div class="caption">
+                <h4><a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-24-2021-apple-m1-8c-cpu-8c-gpu-8512gb-ssd">Моноблок Apple iMac 24&quot; 2021 Apple M1 8C CPU/8C GPU (8+512GB SSD)</a></h4>
+                <div class="statuses"></div>
+                <p>Знакомьтесь: новый iMac.Прирождённый Apple. Наделё..</p>
+                                <div class="rating">
+                                                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                    </div>
+                                                <p class="price">
+                                    169900 сом                                                    </p>
+                              </div>
+              <div class="button-group">
+                <button type="button" onclick="cart.add('3590');" 
+						disabled><i class='fa fa-shopping-cart'></i> <span class='hidden-xs hidden-sm hidden-md'>Нет в наличии</span></button>	      
+                <button type="button" data-toggle="tooltip" title="В закладки" onclick="wishlist.add('3590');"><i class="fa fa-heart"></i></button>
+                <button type="button" data-toggle="tooltip" title="В сравнение" onclick="compare.add('3590');"><i class="fa fa-exchange"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+                <div class="product-layout product-list col-xs-12">
+          <div class="product-thumb">
+             
+	        <div class='image' style='filter: gray;  -webkit-filter: grayscale(100%);  -moz-filter: grayscale(100%);  -ms-filter: grayscale(100%);  -o-filter: grayscale(100%);  filter: grayscale(100%);  opacity: 0.8;'>	      <a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-24-2021-apple-m1-8c-cpu-7c-gpu-8256gb-ssd"><img src="https://login.kg/image/cache/catalog/new/Monoblok/Apple/iMac 24 2021/18-150x150.jpg" data-grey-image="1" alt="Моноблок Apple iMac 24&quot; 2021 Apple M1 8C CPU/7C GPU (8+256GB SSD)" title="Моноблок Apple iMac 24&quot; 2021 Apple M1 8C CPU/7C GPU (8+256GB SSD)" class="img-responsive" /></a></div>
+            <div>
+              <div class="caption">
+                <h4><a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-24-2021-apple-m1-8c-cpu-7c-gpu-8256gb-ssd">Моноблок Apple iMac 24&quot; 2021 Apple M1 8C CPU/7C GPU (8+256GB SSD)</a></h4>
+                <div class="statuses"></div>
+                <p>Знакомьтесь: новый iMac.Прирождённый Apple. Наделё..</p>
+                                <div class="rating">
+                                                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                    </div>
+                                                <p class="price">
+                                    133999 сом                                                    </p>
+                              </div>
+              <div class="button-group">
+                <button type="button" onclick="cart.add('3591');" 
+						disabled><i class='fa fa-shopping-cart'></i> <span class='hidden-xs hidden-sm hidden-md'>Нет в наличии</span></button>	      
+                <button type="button" data-toggle="tooltip" title="В закладки" onclick="wishlist.add('3591');"><i class="fa fa-heart"></i></button>
+                <button type="button" data-toggle="tooltip" title="В сравнение" onclick="compare.add('3591');"><i class="fa fa-exchange"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+                <div class="product-layout product-list col-xs-12">
+          <div class="product-thumb">
+             
+	        <div class='image' style='filter: gray;  -webkit-filter: grayscale(100%);  -moz-filter: grayscale(100%);  -ms-filter: grayscale(100%);  -o-filter: grayscale(100%);  filter: grayscale(100%);  opacity: 0.8;'>	      <a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-21-5-2017-i5-7360u-7gen-81000gb-hdd"><img src="https://login.kg/image/cache/catalog/new/Monoblok/Apple/iMac 21.5 2017/16-150x150.jpg" data-grey-image="1" alt="Моноблок Apple iMac 21.5&quot; 2017 i5-7360U 7th Gen/Intel Iris Plus Graphics 640 8+1000GB HDD" title="Моноблок Apple iMac 21.5&quot; 2017 i5-7360U 7th Gen/Intel Iris Plus Graphics 640 8+1000GB HDD" class="img-responsive" /></a></div>
+            <div>
+              <div class="caption">
+                <h4><a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-21-5-2017-i5-7360u-7gen-81000gb-hdd">Моноблок Apple iMac 21.5&quot; 2017 i5-7360U 7th Gen/Intel Iris Plus Graphics 640 8+1000GB HDD</a></h4>
+                <div class="statuses"></div>
+                <p>iMacНеотразимая мощьМы всегда стремились изменить ..</p>
+                                <div class="rating">
+                                                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                    </div>
+                                                <p class="price">
+                                    83900 сом                                                    </p>
+                              </div>
+              <div class="button-group">
+                <button type="button" onclick="cart.add('2482');" 
+						disabled><i class='fa fa-shopping-cart'></i> <span class='hidden-xs hidden-sm hidden-md'>Нет в наличии</span></button>	      
+                <button type="button" data-toggle="tooltip" title="В закладки" onclick="wishlist.add('2482');"><i class="fa fa-heart"></i></button>
+                <button type="button" data-toggle="tooltip" title="В сравнение" onclick="compare.add('2482');"><i class="fa fa-exchange"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+                <div class="product-layout product-list col-xs-12">
+          <div class="product-thumb">
+             
+	        <div class='image' style='filter: gray;  -webkit-filter: grayscale(100%);  -moz-filter: grayscale(100%);  -ms-filter: grayscale(100%);  -o-filter: grayscale(100%);  filter: grayscale(100%);  opacity: 0.8;'>	      <a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-27-2019-i5-8600u-8th-gen-81000gb-hdd"><img src="https://login.kg/image/cache/catalog/new/Monoblok/Apple/iMac 27 2019/22 272019-150x150.jpg" data-grey-image="1" alt="Моноблок Apple iMac 27&quot; 2019 i5-8600 8th Gen/AMD Radeon Pro 575X 8+1000GB HDD" title="Моноблок Apple iMac 27&quot; 2019 i5-8600 8th Gen/AMD Radeon Pro 575X 8+1000GB HDD" class="img-responsive" /></a></div>
+            <div>
+              <div class="caption">
+                <h4><a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-27-2019-i5-8600u-8th-gen-81000gb-hdd">Моноблок Apple iMac 27&quot; 2019 i5-8600 8th Gen/AMD Radeon Pro 575X 8+1000GB HDD</a></h4>
+                <div class="statuses"></div>
+                <p>iMacНеотразимая мощьМы всегда стремились изменить ..</p>
+                                <div class="rating">
+                                                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                    </div>
+                                                <p class="price">
+                                    149900 сом                                                    </p>
+                              </div>
+              <div class="button-group">
+                <button type="button" onclick="cart.add('2483');" 
+						disabled><i class='fa fa-shopping-cart'></i> <span class='hidden-xs hidden-sm hidden-md'>Нет в наличии</span></button>	      
+                <button type="button" data-toggle="tooltip" title="В закладки" onclick="wishlist.add('2483');"><i class="fa fa-heart"></i></button>
+                <button type="button" data-toggle="tooltip" title="В сравнение" onclick="compare.add('2483');"><i class="fa fa-exchange"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+                <div class="product-layout product-list col-xs-12">
+          <div class="product-thumb">
+             
+	        <div class='image' style='filter: gray;  -webkit-filter: grayscale(100%);  -moz-filter: grayscale(100%);  -ms-filter: grayscale(100%);  -o-filter: grayscale(100%);  filter: grayscale(100%);  opacity: 0.8;'>	      <a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-21-5-retina-4k-2019-i5-8500-8th-gen-amd-radeon-pro-560-81000gb-hdd"><img src="https://login.kg/image/cache/catalog/new/Monoblok/Apple/iMac 21.5 2019/0-21 4k 2019-150x150.jpg" data-grey-image="1" alt="Моноблок Apple iMac 21.5&quot; Retina 4K 2019 i3-8100 8th Gen/AMD Radeon Pro 555X 8+1000GB HDD" title="Моноблок Apple iMac 21.5&quot; Retina 4K 2019 i3-8100 8th Gen/AMD Radeon Pro 555X 8+1000GB HDD" class="img-responsive" /></a></div>
+            <div>
+              <div class="caption">
+                <h4><a href="https://login.kg/produktsija-apple/monobloki-apple-imac/monoblok-apple-imac-21-5-retina-4k-2019-i5-8500-8th-gen-amd-radeon-pro-560-81000gb-hdd">Моноблок Apple iMac 21.5&quot; Retina 4K 2019 i3-8100 8th Gen/AMD Radeon Pro 555X 8+1000GB HDD</a></h4>
+                <div class="statuses"></div>
+                <p>iMacНеотразимая мощьМы всегда стремились изменить ..</p>
+                                <div class="rating">
+                                                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                                        <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
+                                                    </div>
+                                                <p class="price">
+                                    106900 сом                                                    </p>
+                              </div>
+              <div class="button-group">
+                <button type="button" onclick="cart.add('2508');" 
+						disabled><i class='fa fa-shopping-cart'></i> <span class='hidden-xs hidden-sm hidden-md'>Нет в наличии</span></button>	      
+                <button type="button" data-toggle="tooltip" title="В закладки" onclick="wishlist.add('2508');"><i class="fa fa-heart"></i></button>
+                <button type="button" data-toggle="tooltip" title="В сравнение" onclick="compare.add('2508');"><i class="fa fa-exchange"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+              </div>
+      <div class="row">
+        <div class="col-sm-6 text-left"></div>
+        <div class="col-sm-6 text-right">Показано с 1 по 6 из 6 (всего 1 страниц)</div>
+      </div>
+                  </div>
+    </div>
+</div>
+<footer>
+  <div class="container">
+    <div class="row">
+            <div class="col-sm-3">
+        <h5>Информация</h5>
+        <ul class="list-unstyled">
+                    <li><a href="https://login.kg/sistema-nachislenij-ballov">Система начислений баллов КЕШБЭК</a></li>
+                    <li><a href="https://login.kg/politika-konfidentsialnosti">Политика конфиденциальности</a></li>
+                    <li><a href="https://login.kg/about_us">Адрес магазина</a></li>
+                    <li><a href="https://login.kg/oplata">Способы оплаты</a></li>
+                    <li><a href="https://login.kg/uslovija-kreditovanie">Покупайте в кредит</a></li>
+                    <li><a href="https://login.kg/garantia">Условия гарантии</a></li>
+                    <li><a href="https://login.kg/delivery">Доставка</a></li>
+                    <li><a href="https://login.kg/terms">Условия соглашения</a></li>
+                  </ul>
+      </div>
+            <div class="col-sm-3">
+        <h5>Служба поддержки</h5>
+        <ul class="list-unstyled">
+          <li><a href="https://login.kg/contact-us">Обратная связь</a></li>
+          <!--<li><a href="https://login.kg/return-add">Возврат товара</a></li>-->
+          <li><a href="https://login.kg/sitemap">Карта сайта</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <h5>Дополнительно</h5>
+        <ul class="list-unstyled">
+          <li><a href="https://login.kg/brands">Производители</a></li>
+          <!--<li><a href="https://login.kg/vouchers">Подарочные сертификаты</a></li>-->
+          <!--<li><a href="https://login.kg/affiliates">Партнерская программа</a></li>-->
+          <li><a href="https://login.kg/specials">Акции</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <h5>Личный Кабинет</h5>
+        <ul class="list-unstyled">
+          <li><a href="https://login.kg/my-account">Личный Кабинет</a></li>
+          <li><a href="https://login.kg/order-history">История заказов</a></li>
+          <li><a href="https://login.kg/wishlist">Закладки</a></li>
+          <li><a href="https://login.kg/newsletter">Рассылка</a></li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+	<center>
+	<!-- WWW.NET.KG , code for http://www.login.kg -->
+<script language="javascript" type="text/javascript">
+ java="1.0";
+ java1=""+"refer="+escape(document.referrer)+"&amp;page="+escape(window.location.href);
+ document.cookie="astratop=1; path=/";
+ java1+="&amp;c="+(document.cookie?"yes":"now");
+</script>
+<script language="javascript1.1" type="text/javascript">
+ java="1.1";
+ java1+="&amp;java="+(navigator.javaEnabled()?"yes":"now");
+</script>
+<script language="javascript1.2" type="text/javascript">
+ java="1.2";
+ java1+="&amp;razresh="+screen.width+'x'+screen.height+"&amp;cvet="+
+ (((navigator.appName.substring(0,3)=="Mic"))?
+ screen.colorDepth:screen.pixelDepth);
+</script>
+<script language="javascript1.3" type="text/javascript">java="1.3"</script>
+<script language="javascript" type="text/javascript">
+ java1+="&amp;jscript="+java+"&amp;rand="+Math.random();
+ document.write("<a rel='nofollow' href='https://www.net.kg/stat.php?id=4886&amp;fromsite=4886' target='_blank'>"+
+ "<img src='https://www.net.kg/img.php?id=4886&amp;"+java1+
+ "' border='0' alt='WWW.NET.KG' width='88' height='31' /></a>");
+</script>
+<noscript>
+ <a rel="nofollow" href='https://www.net.kg/stat.php?id=4886&amp;fromsite=4886' target='_blank'><img
+  src="https://www.net.kg/img.php?id=4886" border='0' alt='WWW.NET.KG' width='88'
+  height='31' /></a>
+</noscript>
+<!-- /WWW.NET.KG -->  </center>
+
+</br>
+	
+	
+  </div>
+
+<!--microdatapro 7.3 company start [microdata] -->
+<span itemscope itemtype="http://schema.org/ElectronicsStore">
+<meta itemprop="name" content="Интернет-магазин Login.kg" />
+<link itemprop="url" href="https://login.kg/" />
+<link itemprop="image" href="https://login.kg/image/catalog/System/Logo/Logo text.png" />
+<meta itemprop="email" content="info@login.kg" />
+<meta itemprop="priceRange" content="KGS" />
+<meta itemprop="hasMap" content="google.com/maps/place/Интернет-магазин+Login.kg+(филиал+&quot;ЦЕНТР&quot;)/@42.8799669,74.5865951,17z/data=!3m1!4b1!4m5!3m4!1s0x389ec8218dd64ab9:0xcd2533980649bbb8!8m2!3d42.879963!4d74.5887838?hl=ru-RU" />
+<meta itemprop="telephone" content="+996-500-12-02-52" />
+<meta itemprop="telephone" content="+996-557-12-52-52" />
+<link itemprop="sameAs" href="https://www.instagram.com/login_kg/" />
+<span itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+<meta itemprop="target" content="https://login.kg/index.php?route=product/search&search={search_term_string}"/>
+<input type="hidden" itemprop="query-input" name="search_term_string">
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="http://schema.org/Monday" />
+<meta itemprop="opens" content="10:00" />
+<meta itemprop="closes" content="20:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="http://schema.org/Tuesday" />
+<meta itemprop="opens" content="10:00" />
+<meta itemprop="closes" content="20:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="http://schema.org/Wednesday" />
+<meta itemprop="opens" content="10:00" />
+<meta itemprop="closes" content="20:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="http://schema.org/Thursday" />
+<meta itemprop="opens" content="10:00" />
+<meta itemprop="closes" content="20:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="http://schema.org/Friday" />
+<meta itemprop="opens" content="10:00" />
+<meta itemprop="closes" content="20:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="http://schema.org/Saturday" />
+<meta itemprop="opens" content="10:00" />
+<meta itemprop="closes" content="20:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="http://schema.org/Sunday" />
+<meta itemprop="opens" content="10:00" />
+<meta itemprop="closes" content="19:00" />
+</span>
+</span>
+<!--microdatapro 7.3 company end [microdata] -->
+<!--microdatapro 7.3 company start [json-ld] -->
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "ElectronicsStore",
+"name": "Интернет-магазин Login.kg",
+"url": "https://login.kg/",
+"image": "https://login.kg/image/catalog/System/Logo/Logo text.png",
+"telephone" : "+996-500-12-02-52",
+"email": "info@login.kg",
+"priceRange": "KGS",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://login.kg/index.php?route=product/search&search={search_term_string}",
+"query-input": "required name=search_term_string"
+},
+"contactPoint" : [
+{
+"@type" : "ContactPoint",
+"telephone" : "+996-500-12-02-52",
+"contactType" : "customer service"
+},{
+"@type" : "ContactPoint",
+"telephone" : "+996-557-12-52-52",
+"contactType" : "customer service"
+}],
+"sameAs" : [
+"https://www.instagram.com/login_kg/"],
+"openingHoursSpecification":[
+{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Monday",
+"opens": "10:00",
+"closes": "20:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Tuesday",
+"opens": "10:00",
+"closes": "20:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Wednesday",
+"opens": "10:00",
+"closes": "20:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Thursday",
+"opens": "10:00",
+"closes": "20:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Friday",
+"opens": "10:00",
+"closes": "20:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Saturday",
+"opens": "10:00",
+"closes": "20:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Sunday",
+"opens": "10:00",
+"closes": "19:00"
+}]
+}
+</script>
+<!--microdatapro 7.3 company end [json-ld] -->
+<!--microdatapro 7.3 company start [hCard] -->
+<span class="vcard">
+<span class="org"><span class="value-title" title="Интернет-магазин Login.kg"></span></span>
+<span class="url"><span class="value-title" title="https://login.kg/"></span></span>
+<span class="tel"><span class="value-title" title="+996-500-12-02-52"></span></span>
+<span class="tel"><span class="value-title" title="+996-557-12-52-52"></span></span>
+<span class="photo"><span class="value-title" title="https://login.kg/image/catalog/System/Logo/Logo text.png"></span></span>
+</span>
+<!--microdatapro 7.3 company end [hCard ] -->
+</footer>
+
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+
+<!-- Theme created by Mit_nik -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60512377-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<script type="text/javascript">
+    var _cp = {trackerId: 16314};
+    (function(d){
+        var cp=d.createElement('script');cp.type='text/javascript';cp.async = true;
+        cp.src='//tracker.cartprotector.com/cartprotector.js';
+        var s=d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(cp, s);
+    })(document);
+</script>
+
+
+<script src="//code-eu1.jivosite.com/widget/PDAEjBSOpd" async></script>
+
+
+
+
+	<script>
+		$(document).ready(function() {
+			$('.image a, .thumbnails a').each(function () {
+				if ($(this).find('img').attr('data-grey-image')) {
+					$(this).find('img').addClass('greyimage');
+					$(this).append('<div class="greylable">Нет в наличии</div>');
+				}
+			});
+		});
+	</script>
+	<style>
+	.image a{display:inline-block;}
+	.image a, .thumbnails a{position:relative;}
+	.product-thumb:hover .greylable, .thumbnails > li:hover .greylable{display:none;}
+	/* .greylable {z-index: 9; text-align:center !important; width: 140px !important; height: 33px !important; position: absolute; top: 50%; left: 50%; margin: -15px 0 0 -70px !important; background:#aaa; background: linear-gradient(to bottom, #bbb 0%, #aaa 100%); color:#fff !important; font-size:14px !important; font-weight:400 !important; padding:6px 0; border-radius:5px; box-shadow:inset 0 1px 0 #ddd, 0 0 10px #444; text-shadow: 0px 1px 0 #666;} */
+	.greylable {z-index: 9; font-family:Arial; line-height:normal !important; text-align:center !important; width: 136px !important; position: absolute; top: 50%; left: 50%; margin: -15px 0 0 -68px !important; background:#aaa; background: linear-gradient(to bottom, #bbb 0%, #aaa 100%); color:#fff !important; font-size:14px !important; font-weight:400 !important; padding:8px 0 9px; border-radius:5px; box-shadow:inset 0 1px 0 #ddd, 0 0 0px #444; text-shadow: 0px 1px 0 #666;}
+	.greyimage{filter: url('image/grayscale.svg#greyscale'); filter: gray; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); opacity:0.8;}
+	</style>
+	
+</body></html>
